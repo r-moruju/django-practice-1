@@ -7,3 +7,5 @@
 * python3 manage.py showmigrations (to show what wil be updated)
 * python3 manage.py migrate (to update database )
 * python3 manage.py createsuperuser (to create a admin user)
+
+* coverage run --source=todo manage.py test (to create a test report after instaling coverage('pip3 install coverage'))
